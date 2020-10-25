@@ -28,9 +28,9 @@ where "url you just copied" (without the quote marks) is the url to this reposit
 
 For example:
 ```
-git clone https://IterRoboticsClub/GettingStartedWith-Git-GitHub.git
+git clone https://PIYSocial-India/GettingStartedWith-Git-GitHub.git
 ```
-where `IterRoboticsClub` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+where `PIYSocial-India` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
 
@@ -90,5 +90,4 @@ Now submit the pull request.
 
 <!---<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" /> --->
 
-Soon the ITER Robotics Club will be merging all your changes into the master branch of this project. 
-You will get a notification email once the changes have been merged.
+
